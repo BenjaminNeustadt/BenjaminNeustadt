@@ -7,7 +7,7 @@
 
 <br>
 
-[<img src="world-wide-web.png" width="70">](https://benjamin-neustadt.herokuapp.com/)
+[<img style="float:middle" src="world-wide-web.png" width="70">](https://benjamin-neustadt.xyz/)
 
 &nbsp;
 [<img style="float:middle" width="auto" alt="metrics" src="github-metrics.svg">](#)
