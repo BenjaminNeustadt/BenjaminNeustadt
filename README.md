@@ -1,13 +1,12 @@
 <div align="center">
 
-[![](https://img.shields.io/badge/Email-b.james.neustadt%40gmail.com-lightgrey)](mailto:b.james.neustadt@gmail.com) [![PDF resume](https://img.shields.io/badge/Github%20CV-grey)](https://github.com/BenjaminNeustadt/CV)  [![](https://img.shields.io/badge/-Website-blue)](https://benjamin-neustadt.xyz/)
+[![](https://img.shields.io/badge/Email-b.james.neustadt%40gmail.com-lightgrey)](mailto:b.james.neustadt@gmail.com) [![](https://img.shields.io/badge/-Website-blue)](https://benjamin-neustadt.xyz/)
 </div>
 
 ## Hello 👋
 
 👾  I'm a **software developer** graduate of [Makers](https://makers.tech/)<br>
 📡  **Reach me here:** b.james.neustadt@gmail.com <br>
-🧬  **Find out more about me in my** [Github CV](https://github.com/BenjaminNeustadt/CV#readme)<br>
 
 <br>
 
