@@ -3,9 +3,8 @@
 [![](https://img.shields.io/badge/Email-b.james.neustadt%40gmail.com-lightgrey)](mailto:b.james.neustadt@gmail.com) [![](https://img.shields.io/badge/-Website-blue)](https://benjamin-neustadt.xyz/)
 </div>
 
-## Hello 👋
-
-👾  I'm a **software developer** graduate of [Makers](https://makers.tech/)<br>
+##
+👾  I'm a **software developer now doing DevOps<br>
 📡  **Reach me here:** b.james.neustadt@gmail.com <br>
 
 <br>
