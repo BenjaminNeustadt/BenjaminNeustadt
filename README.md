@@ -4,7 +4,7 @@
 </div>
 
 ##
-👾  I'm a **software developer now doing DevOps<br>
+👾  I'm a software developer now doing DevOps<br>
 📡  **Reach me here:** b.james.neustadt@gmail.com <br>
 
 <br>
