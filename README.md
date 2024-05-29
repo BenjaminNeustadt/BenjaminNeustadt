@@ -13,6 +13,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby" title="Ruby" alt="Ruby"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Python-FFD700?logo=python" title="Python" alt="Python"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails"  title="Rails" alt="Rails"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Sinatra-black?logo=ruby-sinatra"  title="sinatra" alt="sinatra" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
@@ -25,6 +26,7 @@
     <img src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb" title="mongoDB" alt="mongoDB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/static/v1?message=PostreSQL&logo=postgresql&labelColor=grey&color=4169E1&logoColor=white&label=%20" title="postgresql" alt="postgresql" />&nbsp;&nbsp;
     <img src="https://img.shields.io/static/v1?message=Heroku&logo=Heroku&labelColor=grey&color=430098&logoColor=white&label=%20" title="heroku" alt="heroku" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/static/v1?message=AWS&logo=amazon-aws&labelColor=grey&color=f89b2b&logoColor=white&label=%20" title="AWS" alt="AWS" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/linux-grey?logo=linux" title="linux" alt="linux" />&nbsp;&nbsp;
  </div>
 
