@@ -25,8 +25,8 @@
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code" title="VisualStudio" alt="VisualStudio"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb" title="mongoDB" alt="mongoDB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/static/v1?message=PostreSQL&logo=postgresql&labelColor=grey&color=4169E1&logoColor=white&label=%20" title="postgresql" alt="postgresql" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/static/v1?message=Heroku&logo=Heroku&labelColor=grey&color=430098&logoColor=white&label=%20" title="heroku" alt="heroku" />&nbsp;&nbsp;
     <img src="https://img.shields.io/static/v1?message=AWS&logo=amazon-aws&labelColor=grey&color=f89b2b&logoColor=white&label=%20" title="AWS" alt="AWS" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/static/v1?message=Heroku&logo=Heroku&labelColor=grey&color=430098&logoColor=white&label=%20" title="heroku" alt="heroku" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/linux-grey?logo=linux" title="linux" alt="linux" />&nbsp;&nbsp;
  </div>
 
