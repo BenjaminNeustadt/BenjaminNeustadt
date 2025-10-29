@@ -6,8 +6,8 @@
 ##
 
 
-<! -- 👾  I'm a software engineer and do DevOps<br>-->
-<! -- 📡  **Reach me here:** b.james.neustadt@gmail.com <br>-->
+<!--👾  I'm a software engineer and do DevOps<br>-->
+<!-- 📡  **Reach me here:** b.james.neustadt@gmail.com <br>-->
 <br>
 
 🔧 Languages & Tools:<br>
