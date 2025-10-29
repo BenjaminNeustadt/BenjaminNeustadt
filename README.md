@@ -11,7 +11,7 @@
 <!-- 📡  **Reach me here:** [hidden] <br>-->
 <br>
 
-🔧 Languages & Tools:<br>
+<!-- 🔧 Languages & Tools:<br>-->
 
 <div align="center">
     <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby" title="Ruby" alt="Ruby"/>&nbsp;&nbsp;
